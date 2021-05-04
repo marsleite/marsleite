@@ -4,11 +4,16 @@ I'm a Full Stack web Developer student at Trybe
 
 ```javascript
 
-function fullStack() {
-  const learning = ['HTML', 'CSS', 'JS', 'React', 'Git', 'GitHub'];
-  for (let index = 0; index < learning.length; index += 1) {
-    const knowledge = [];
-    knowledge.push(learning[index]);
+const perfil = {
+  firstName: 'Marcelo',
+  lastName: 'Leite',
+  graduated: {
+    firstGraduated: {
+      electronicEngineer: 'year 2010'
+    },
+    secondGraduated: {
+      developerFullStack: 'current year 2021';
+    }
   }
 };
 
