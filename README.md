@@ -1,32 +1,28 @@
 ### Hi there 👋 I'm Marcelo Leite
 
 I'm a Full Stack web Developer student at Trybe
+- 🌱 &nbsp;I’m currently learning Typescript, Next.Js, API REST, POO with Java
+- 🚀 &nbsp;Keep learning.
+- 🏛️ &nbsp;Graduated in Electrical engineer since 2010
 
-```javascript
+### Graduating at trybe
+In the overview below you will find my most recent learn experiencie:
 
-const perfil = {
-  firstName: 'Marcelo',
-  lastName: 'Leite',
-  graduated: {
-    firstGraduated: {
-      electronicEngineer: 'year 2010'
-    },
-    secondGraduated: {
-      developerFullStack: 'current year 2021';
-    }
-  }
-};
+**Software Development**\
+Languages & Technologies: `JavaScript`, `Node.Js`, `React.Js`, `Redux`, `Html&Css`, `Express`, `SQL`, `Mongodb`\
+Interface: `API REST`\
+Architecture: `MSC`
 
-```
+### Find me
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/marsleite)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marsleite/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/marsleite1)
 
-#### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
+📊 &nbsp;**This week I spent my time on**
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=marsleite&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 #### Github Stats
 
