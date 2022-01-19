@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Marcelo Leite
 
 I'm a Full Stack web Developer student at Trybe
-- 🌱 &nbsp;I’m currently learning Typescript, Next.Js, API REST, POO with Java
+- 🌱 &nbsp;I’m currently learning Typescript, Next.Js, API REST, GraphQL, Python, POO with Java
 - 🚀 &nbsp;Keep learning.
 - 🏛️ &nbsp;Graduated in Electrical engineer since 2010
 
@@ -9,8 +9,7 @@ I'm a Full Stack web Developer student at Trybe
 In the overview below you will find my most recent learn experiencie:
 
 **Software Development**\
-Languages & Technologies: `JavaScript`, `Node.Js`, `React.Js`, `Redux`, `Html&Css`, `Express`, `SQL`, `Mongodb`\
-Interface: `API REST`\
+Languages & Technologies: `JavaScript`, `Node.Js`, `API Rest`, `GraphQL`, `React.Js`, `Redux`, `Html&Css`, `Express`, `SQL`, `Mongodb`\
 Architecture: `MSC`
 
 ### Find me
