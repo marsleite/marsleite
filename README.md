@@ -9,7 +9,7 @@ I'm a Software Developer.
 In the overview below you will find my most recent learn experiencie:
 
 **Software Development**\
-Languages & Technologies: `JavaScript`, `Node.Js`, `API Rest`, `GraphQL`, `React.Js`, `Redux`, `Express`, `SQL`, `Mongodb`\
+Languages & Technologies: `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `SQL`, `Mongodb`\
 
 ### Find me
 
