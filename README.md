@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Marcelo Leite
 
 I'm a Software Developer.
-- 🌱 &nbsp;I’m currently learning POO with Java and spring boot in bootcampIT backend Meli / Digital House
+- 🌱 &nbsp;I’m currently learning POO with Java and Kotlin.
 - 🚀 &nbsp;Keep learning.
 - 🏛️ &nbsp;Graduated in Electrical engineer since 2010
 
