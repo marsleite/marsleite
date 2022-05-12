@@ -4,9 +4,7 @@ I'm a Software Developer.
 - 🌱 &nbsp;I’m currently learning POO with Java and Kotlin.
 - 🚀 &nbsp;Keep learning.
 - 🏛️ &nbsp;Graduated in Electrical engineer since 2010
-
-### Graduated at trybe
-In the overview below you will find my most recent learn experiencie:
+- 🏛️ &nbsp;Graduated in Web Development fullstack since 2022
 
 **Software Development**\
 Languages & Technologies: `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `SQL`, `Mongodb`\
