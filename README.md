@@ -7,7 +7,7 @@ I'm a Software Developer.
 - 🏛️ &nbsp;Graduated in Web Development fullstack since 2022
 
 **Software Development**\
-Languages & Technologies: `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `SQL`, `Mongodb`, `microservice`
+Languages & Technologies: `POO`, `SOLID`, `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `SQL`, `Mongodb`, `microservice`
 
 ### Find me
 
