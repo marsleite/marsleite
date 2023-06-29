@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Marcelo Leite
 
 I'm a Software Developer.
-- 🌱 &nbsp;I’m currently learning POO with Java and Kotlin.
-- 🚀 &nbsp;Keep learning.
-- 🏛️ &nbsp;Graduated in Electrical engineer since 2010
-- 🏛️ &nbsp;Graduated in Web Development fullstack since 2022
+- 🌱 &nbsp; I’m currently learning POO with Java and Kotlin.
+- 🚀 &nbsp; Keep learning.
+- 🏛️ &nbsp; Graduated in Electrical engineer since 2010
+- 🏛️ &nbsp; Graduated in Web Development full stack since 2022
+- 🏛️ &nbsp; Pós - Graduated in Architecture and Development Java 2023 - FIAP
 
 **Software Development**\
 Languages & Technologies: `POO`, `SOLID`, `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `SQL`, `Mongodb`, `microservice`
