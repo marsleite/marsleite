@@ -8,7 +8,7 @@ I'm a Software Developer.
 - 🏛️ &nbsp; Pós - Graduated in Architecture and Development Java 2023 - FIAP
 
 **Software Development**\
-Languages & Technologies: `POO`, `SOLID`, `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `SQL`, `Mongodb`, `microservice`
+Languages & Technologies: `POO`, `SOLID`, `JavaScript`, `Node.Js`, `Express`, `API Rest`, `Java`, `Kotlin`, `Spring MVC`, `Clean Arch`, `SQL`, `Mongodb`, `microservice`, `datadog`, `CI/CD`, `Jenkins`
 
 ### Find me
 
